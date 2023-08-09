@@ -2,13 +2,15 @@
 This project is a simple calculator that runs on an ATmega32 microcontroller and uses FreeRTOS as the operating system. The calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator has a 4x4 keypad for input and a 16x2 LCD for output.
 
 ## Hardware Requirements
+
 To run this project, you will need the following hardware components:
 
-An ATmega32 microcontroller
-A 4x4 keypad
-A 16x2 LCD
-A breadboard and some wires
-A USBasp programmer
+An ATmega32 microcontroller\n
+A 4x4 keypad\n
+A 16x2 LCD\n
+A breadboard and some wires\n
+A USBasp programmer\n
+
 ## Software Requirements
 To compile and upload this project, you will need the following software tools:
 
