@@ -5,11 +5,11 @@ This project is a simple calculator that runs on an ATmega32 microcontroller and
 
 To run this project, you will need the following hardware components:
 
-An ATmega32 microcontroller\n
-A 4x4 keypad\n
-A 16x2 LCD\n
-A breadboard and some wires\n
-A USBasp programmer\n
+An ATmega32 microcontroller\
+A 4x4 keypad\
+A 16x2 LCD\
+A breadboard and some wires\
+A USBasp programmer\
 
 ## Software Requirements
 To compile and upload this project, you will need the following software tools:
