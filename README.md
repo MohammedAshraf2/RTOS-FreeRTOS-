@@ -1,4 +1,4 @@
-#Calculator on ATmega32 using FreeRTOS
+# Calculator on ATmega32 using FreeRTOS
 This project is a simple calculator that runs on an ATmega32 microcontroller and uses FreeRTOS as the operating system. The calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator has a 4x4 keypad for input and a 16x2 LCD for output.
 
 #Hardware Requirements
