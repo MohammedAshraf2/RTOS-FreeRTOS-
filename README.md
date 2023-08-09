@@ -27,9 +27,9 @@ This project consists of four main tasks that run concurrently on FreeRTOS:\
 LCD_Task: This task is responsible for initializing and updating the LCD display. It reads the input from the keypad task and the result from the calculation task and displays them on the LCD.\
 Keypad_Task: This task is responsible for scanning and debouncing the keypad input. It sends the pressed key to the LCD task and the parser task via queues.\
 Parser_Task: This task is responsible for parsing and validating the keypad input. It converts the input into a postfix expression and sends it to the calculation task via a queue.\
-Calculation_Task: This task is responsible for evaluating the postfix expression and performing the arithmetic operations. It sends the result to the LCD task via a queue.
+Calculation_Task: This task is responsible for evaluating the postfix expression and performing the arithmetic operations. It sends the result to the LCD task via a queue.\
 
-### How to Run
+#### How to Run
 To run this project, follow these steps:
 
 Connect the hardware components.\
